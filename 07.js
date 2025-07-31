@@ -18,7 +18,7 @@ function contar() {
   
     // Passo inválido
     if (p <= 0) {
-      window.alert('Passo inválido. Considerando passo 1')
+      window.alert('Passo Invalido. Passo 1 considerado.')
       p = 1
     }
   
